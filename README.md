@@ -6,7 +6,7 @@
 Web-first platform where citizens report and track local civic issues. Features verification , AI photo validation, blockchain transparency, and token-based rewards (CivicCoins).
 
 ## Live 
-https://v0.dev/chat/civic-track-2-0-project-cwevikJlvl2
+https://v0-civic-track-2-0-project.vercel.app/
 
 ## Setup (Frontend)
 Requirements: Node.js >=18, pnpm
